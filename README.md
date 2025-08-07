@@ -38,7 +38,7 @@ Amo lavorare in team, sperimentare soluzioni nuove e migliorare costantemente.
 
 ## 🔗 Link utili
 
-- 🌐 [Portfolio online (GitHub Pages)](https://tuo-nome.github.io/portfolio-leila-manetti) *(modifica questo link una volta pubblicato)*
+- 🌐 [Portfolio online (GitHub Pages)](https://leila-manetti.github.io/portfolio-leila-manetti) 
 - 💼 [LinkedIn – Leila Manetti](https://www.linkedin.com/in/leila-manetti-707377bb)
 - 📧 Email: manettileila@gmail.com
 
